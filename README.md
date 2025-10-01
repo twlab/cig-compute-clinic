@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="share/CIG_Group_Icon.png" width="200">
+  <img src="share/img/CIG_Group_Icon.png" width="200">
 </p>
 
 # CIG Compute Clinic
