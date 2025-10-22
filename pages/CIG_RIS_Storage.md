@@ -4,14 +4,21 @@
 
 **CCDG 2**\
 Path: /storage1/fs1/ccdg2\
+Size: 2 PB
+Perm: Chad, Eddie and Zheng
+Desc: CIG is borrowing this space for the HPRC
 
 ## Storage2
 
 **Epignome**\
 Path: /storage2/fs1/epigenome
+Size: 500 TB
+Perm:
+Desc: SMaHT production & QC data and analyses. Also hosting other projects, but they will migrate to storage3.
 
 **HPRC**\
 Path: /storage2/fs1/hprc
+Size: 900 TB
 
 ## Storage3
 
