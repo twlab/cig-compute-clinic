@@ -18,3 +18,4 @@ The CIG is a hybrid group with their office in room 5119 in the 4444 building lo
 
 # Table of contents
 * [RIS Storage](https://github.com/twlab/cig-compute-clinic/blob/main/pages/CIG_RIS_Storage.md)
+* [Meeting Slides](https://wustl.box.com/s/m0cp7odh5pgqq6ny4mr5vvg61uu5wrix)
